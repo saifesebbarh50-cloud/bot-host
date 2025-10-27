@@ -1,0 +1,1 @@
+Frontend (Vite + React). Run npm install then npm run dev in frontend folder. Proxy to backend via package.json or configure CORS.

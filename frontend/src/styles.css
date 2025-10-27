@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+*{box-sizing:border-box}
+body{margin:0;font-family:'Poppins',sans-serif;background:#05060a;color:#e6eef6}
+.header{padding:18px 24px;background:#071021;display:flex;align-items:center;justify-content:space-between}
+.logo{font-weight:800;color:#00a8ff;font-size:20px}
+.container{max-width:1000px;margin:40px auto;padding:20px}
+.btn{background:#5865f2;color:white;padding:10px 14px;border-radius:8px;border:none;cursor:pointer}
+.card{background:#0b1220;padding:16px;border-radius:10px;margin-bottom:12px}
+.input, textarea, select{width:100%;padding:10px;border-radius:6px;border:1px solid #1a2330;background:#081020;color:#e6eef6}
+.flex{display:flex;gap:12px;align-items:center}
